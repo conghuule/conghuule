@@ -1,6 +1,8 @@
 # 💫About Me :
 Hi, I'm Huu👋👨‍💻
 
+✍ I'm a student of Ho Chi Minh City University of Science (VNU-HCMUS).
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huule1709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lê-công-hửu-lch017092001) 
 
